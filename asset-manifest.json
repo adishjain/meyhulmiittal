@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/advocate-website/static/css/main.b238dadc.css",
-    "main.js": "/advocate-website/static/js/main.8d57a159.js",
-    "index.html": "/advocate-website/index.html",
-    "main.b238dadc.css.map": "/advocate-website/static/css/main.b238dadc.css.map",
-    "main.8d57a159.js.map": "/advocate-website/static/js/main.8d57a159.js.map"
+    "main.css": "/meyhulmittal/static/css/main.b238dadc.css",
+    "main.js": "/meyhulmittal/static/js/main.8d57a159.js",
+    "index.html": "/meyhulmittal/index.html",
+    "main.b238dadc.css.map": "/meyhulmittal/static/css/main.b238dadc.css.map",
+    "main.8d57a159.js.map": "/meyhulmittal/static/js/main.8d57a159.js.map"
   },
   "entrypoints": [
     "static/css/main.b238dadc.css",
