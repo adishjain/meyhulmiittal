@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.bea3f8f6.css",
-    "main.js": "./static/js/main.9cf13f2c.js",
-    "index.html": "./index.html",
-    "main.bea3f8f6.css.map": "./static/css/main.bea3f8f6.css.map",
-    "main.9cf13f2c.js.map": "./static/js/main.9cf13f2c.js.map"
+    "main.css": "/advocate-website/static/css/main.4a1f498b.css",
+    "main.js": "/advocate-website/static/js/main.fd1f224e.js",
+    "index.html": "/advocate-website/index.html",
+    "main.4a1f498b.css.map": "/advocate-website/static/css/main.4a1f498b.css.map",
+    "main.fd1f224e.js.map": "/advocate-website/static/js/main.fd1f224e.js.map"
   },
   "entrypoints": [
-    "static/css/main.bea3f8f6.css",
-    "static/js/main.9cf13f2c.js"
+    "static/css/main.4a1f498b.css",
+    "static/js/main.fd1f224e.js"
   ]
 }
